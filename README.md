@@ -3,6 +3,13 @@ Mini escape game room project made in Arduino programming
 
 ![Picture1](https://user-images.githubusercontent.com/85977135/169935013-07ef6623-710a-4033-98ea-fa45a7fa0c1e.png)
 
+Storyline: 
+
+You, a PhD researcher was working tirelessly alone at night in a laboratory conducting research and experiments. Suddenly, you felt a strong tremor and the building started to shake violently, causing everything to fall. You were hit by a heavy object on the back and passed out. Upon waking up, you found yourself trapped with the entrance totally engulfed by flames. The entire building is on the verge of collapsing and the only way out is through the emergency door right in front of you which leads to the rooftop. However, being in a high security laboratory, the door’s key is enclosed with deadly lasers. 
+You heard some distant helicopters, but the only way to access the roof is blocked by  multiple security puzzles. Left with no other choice, you must push through quickly to signal the rescuers about your position… 
+
+
+
 Consisting of 3 stages:
 
 Stage 1: The Radio 
